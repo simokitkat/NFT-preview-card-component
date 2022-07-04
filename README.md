@@ -1,2 +1,1 @@
-# NFT-preview-card-component
-HTML &amp; CSS
+# This is a HTML & CSS responsive design!
