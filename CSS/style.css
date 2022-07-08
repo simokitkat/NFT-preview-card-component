@@ -20,6 +20,14 @@ main {
     align-items: center;
 }
 
+@media (max-height:520px) {
+    main {
+        height: 100%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+}
+
 section {
     max-width: 320px;
     min-width: 300px;
